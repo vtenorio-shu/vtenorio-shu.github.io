@@ -1,0 +1,41 @@
+# This file is auto-updated by .github/workflows/update-publications.yml
+# Do not edit manually — changes will be overwritten
+# Last updated: 2026-03-27
+
+- title: "Rotational dynamics in subcortical systems during reach"
+  authors: "Tenório, V.S.G.M., Baker, S.N."
+  venue: "UK Sensorimotor Conference"
+  year: 2025
+  type: conference
+  tags: [dynamical systems, reticular formation, motor cortex, jPCA]
+
+- title: "Applying a Dynamical Systems Approach to Neural Recordings from Cortical and Sub-cortical Motor Centres in Awake Behaving Monkeys"
+  authors: "Tenório, V.S.G.M., Baker, S.N."
+  venue: "UK Sensorimotor Conference, Aston University"
+  year: 2022
+  type: conference
+  tags: [dynamical systems, motor control, electrophysiology, jPCA]
+
+- title: "Functional and Effective Connectivity Characterization of Absence Seizures"
+  authors: "Tenório, V.S.G.M., de Assis, J.M., de Assis, F.M."
+  venue: "International Conference on Systems, Signals and Image Processing (IWSSIP)"
+  year: 2020
+  doi: "10.1109/IWSSIP48289.2020.9145352"
+  type: journal
+  tags: [epilepsy, connectivity, EEG, network theory]
+
+- title: "Low-Cost, Practical Data Confidentiality Support for IoT Data Sources"
+  authors: "Tenório, V., Souza, L., Albuquerque, M., Marinho, R., Silva, M., Brito, A."
+  venue: "IX Brazilian Symposium on Computing Systems Engineering (SBESC)"
+  year: 2019
+  doi: "10.1109/SBESC49506.2019.9046097"
+  type: conference
+  tags: [IoT, cybersecurity, embedded systems]
+
+- title: "Sensitivity Analysis of Controlled-Temperature Thermoresistive-based Radiometers"
+  authors: "Oliveira, S.A., Tenório, V.S.G.M., Freire, R.C.S."
+  venue: "4th International Symposium on Instrumentation Systems, Circuits and Transducers (INSCIT)"
+  year: 2019
+  doi: "10.1109/INSCIT.2019.8868453"
+  type: conference
+  tags: [instrumentation, signal processing, sensors]

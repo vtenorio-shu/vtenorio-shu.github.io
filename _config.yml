@@ -1,0 +1,31 @@
+title: Viviane Martins Tenório
+description: Neuroscientist & Engineer | Motor control, neural dynamics, and brain-wide computation
+url: "https://tenorio-vivianesgm.github.io"
+baseurl: ""
+
+author:
+  name: Viviane Martins Tenório
+  email: tenorio.vivianesgm@gmail.com
+  orcid: 0000-0002-1859-1190
+  github: tenorio-vivianesgm
+  linkedin: martins-vivianesg
+  google_scholar: "https://scholar.google.com"
+  location: Sheffield, UK
+
+# Build settings
+markdown: kramdown
+theme: null
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Collections
+collections:
+  publications:
+    output: false
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - .github
