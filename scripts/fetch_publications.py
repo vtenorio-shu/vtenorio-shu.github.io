@@ -17,7 +17,7 @@ from pathlib import Path
 AUTHOR_NAME = "Viviane Tenório"
 # Semantic Scholar author search — update AUTHOR_ID once confirmed
 # To find your ID: https://api.semanticscholar.org/graph/v1/author/search?query=viviane+tenorio+neuroscience
-AUTHOR_ID = None  # Set this once you have confirmed your Semantic Scholar ID
+AUTHOR_ID = 1382114177  # Semantic Scholar ID
 
 # Fallback: known DOIs to always include (manual seed list)
 KNOWN_DOIS = [
