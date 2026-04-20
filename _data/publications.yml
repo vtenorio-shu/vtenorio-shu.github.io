@@ -1,5 +1,5 @@
 # Auto-updated by scripts/fetch_publications.py
-# Last updated: 2026-04-13
+# Last updated: 2026-04-20
 
 - title: Rotational dynamics in subcortical systems during reach
   authors: Tenório, V.S.G.M., Baker, S.N.
@@ -38,8 +38,8 @@
   year: 2019
   type: journal
   tags:
-  - iot
   - confidentiality
+  - iot
   doi: 10.1109/SBESC49506.2019.9046097
 - title: Sensitivity Analysis of Controlled-Temperature Thermoresistive-based Radiometers
   authors: S. A. Oliveira, Viviane S. G. M. Tenório, R. Freire
